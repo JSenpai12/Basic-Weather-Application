@@ -26,7 +26,7 @@ class Weather_App(QMainWindow, Ui_MainWindow):
         ]
     
     def get_weather(self):
-        api_key = "a2305b483e74316e4ff11f03f0d854b6"
+        api_key = "Your_API_Key_Here"
         city_name = self.lineEdit.text()
         url = f"https://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={api_key}"
 
