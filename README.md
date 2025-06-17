@@ -22,7 +22,7 @@ FOLDER STRUCTURE:
 
 WeatherApp/
 │
-├── Weather_Icons/           - Folder containing icon images (PNG format)
+├── Weather_Icons/           # Folder containing icon images (PNG format)
 │   ├── cloudy.png
 │   ├── heavy_rain.png
 │   ├── light-rain.png
@@ -34,10 +34,10 @@ WeatherApp/
 │   ├── windstorm.png
 │   └── wind.png
 │
-├── weather.ui               - Qt Designer UI file
-├── weather_design.py        - Auto-generated PySide6 Python code from the .ui
-├── main.py                  - Main application code (backend logic)
-└── README.md                - This file
+├── weather.ui               # Qt Designer UI file
+├── weather_design.py        # Auto-generated PySide6 Python code from the .ui
+├── main.py                  # Main application code (backend logic)
+└── README.md                # This file
 
 ▶️ How to Run:
 
