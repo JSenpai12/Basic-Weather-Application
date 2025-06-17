@@ -15,11 +15,11 @@ Weather Icon
 Error handling with pop-up messages
 Uses custom icons from the Weather_Icons/ folder
 
-GUI Image:
 ![image](https://github.com/user-attachments/assets/0aaf6818-889f-4f3c-b186-39a7b1b22e05)
 
 FOLDER STRUCTURE:
 
+<pre>
 WeatherApp/
 │
 ├── Weather_Icons/           # Folder containing icon images (PNG format)
@@ -38,6 +38,7 @@ WeatherApp/
 ├── weather_design.py        # Auto-generated PySide6 Python code from the .ui
 ├── main.py                  # Main application code (backend logic)
 └── README.md                # This file
+</pre>
 
 ▶️ How to Run:
 
